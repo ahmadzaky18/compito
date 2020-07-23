@@ -1,0 +1,2 @@
+rootProject.name='compito'
+include ':app'
